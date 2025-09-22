@@ -1,6 +1,6 @@
 ---
 title: "'In-Silico Horizontal Gene Transfer': a small computational pipeline!!"
-date: 2025-09-22 22:00:00 +0800
+date: 2025-09-22 21:00:00 +0800
 timezone: "Asia/Shanghai"
 categories: ["2025", Pre]
 tags: [ML, learning]
