@@ -6,7 +6,9 @@ categories: ["2025", Pre]
 tags: [ML, learning]
 ---
 
-More details on the pipeline can be found within the notebook in the GitHub repo [https://github.com/crystaiiise/cross-species-CDS-optimization/]!
+More details on the pipeline can be found within the notebook in the [GitHub repo](https://github.com/crystaiiise/cross-species-CDS-optimization/)!
+
+![Alignment](/assets/img/blogs/250922-1.png)
 
 This was honestly super fun~~ i love AI4Science aww
 
