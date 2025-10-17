@@ -8,7 +8,7 @@ tags: [ML, learning]
 
 More details on the pipeline can be found within the notebook in the [GitHub repo](https://github.com/crystaiiise/cross-species-CDS-optimization/)!
 
-![Alignment](/assets/img/blogs/250922-1.png)
+![Alignment](assets/img/blogs/250922-1.png)
 
 This was honestly super fun~~ i love AI4Science aww
 
@@ -59,7 +59,7 @@ Trying to balance exploration and exploitation, and avoid enumerating by brute f
 
 ## Background information about our iGEM project
 
-Our project aims to mitigate plastic pollution by engineering Streptomyces lividans, a G+ bacterium abundant in soil, to degrade low-density polyethylene (LDPE). We plan to achieve this by introducing the alkane monooxygenase gene (alkB) from Rhodococcus erythropolis and evaluating its efficacy in LDPE breakdown.
+Our project aims to mitigate plastic pollution by engineering *Streptomyces lividans*, a G+ bacterium abundant in soil, to degrade low-density polyethylene (LDPE). We plan to achieve this by introducing the alkane monooxygenase gene (alkB) from *Rhodococcus erythropolis* and evaluating its efficacy in LDPE breakdown.
 
 ---
 
